@@ -1,0 +1,12 @@
+.product-list {
+  width: 80%;
+  background: #dedede;
+  margin: 1em auto;
+  padding: 1em 2em;
+}
+.product-list--title {
+  font-size: 2rem;
+}
+.product-list--items {
+  display: flex;
+}
